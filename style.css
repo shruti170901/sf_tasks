@@ -7,12 +7,12 @@ html {
     /* max-height: 600px; */
     width: 1000px;
     background-image:       
-        url("download.jpg");
+        url("1.jpg");
     background-repeat: repeat-x;
     background-attachment: fixed;
     
     background-size: 
-        25000px;
+        5000px;
     animation: 5s para infinite linear;
     }
 
