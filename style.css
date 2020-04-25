@@ -95,7 +95,7 @@ body {
 			color: #671111;
 		}
 	
-#content ..imgContainer{
+#content.imgContainer{
     float:left;
 }
 	}
